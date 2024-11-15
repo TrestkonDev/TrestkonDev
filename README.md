@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a basic facial-recognition program<br>🌱 I’m currently learning AWS Cloud Computing and Javascript<br>⚡ Fun fact: I love to game and gardening to learn to cultivate outside a PC screen and exercise :D 
+🔭 I’m currently working on a basic website called WeShare which I will deploy on AWS<br>🌱 I’m currently learning AWS Cloud Computing and Javascript<br>⚡ Fun fact: I love to game and gardening to learn to cultivate outside a PC screen and exercise :D 
 
 
 ## 🌐 Socials:
